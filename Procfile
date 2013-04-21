@@ -1,1 +1,1 @@
-app: bin/hubot --adapter campfire --name venuebot --enable-slash
+app: bin/hubot --adapter campfire --name vbot --enable-slash
